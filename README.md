@@ -143,7 +143,7 @@ The notebook displays two detection states:
 
 ## 👩‍💻 Author
 
-**Samu** — M.S. Data Science, UMBC  
+**Samruddhi Davkar** — M.S. Data Science, UMBC  
 Real-Time AI Systems | Spring 2025  
 GitHub: [your-github-username]
 
